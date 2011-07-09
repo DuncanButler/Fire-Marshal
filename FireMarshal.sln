@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Production", "Production", "{F1D54A8E-6EEF-4466-8E6A-790ED402C180}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6E7D5EBC-FA2C-4F14-BA55-B1B52D9C7173}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit", "Unit", "{B678511F-A123-429E-9689-3014018D8385}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Acceptance", "Acceptance", "{DFFF6A2E-5773-4E73-9412-4C808A756819}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{4C3DE596-5CBE-4E23-AF12-97F295288251}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{36982662-4D33-477F-B9DF-526FBBB3884B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03066F07-0160-475C-840C-2E7D1D853E05}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C3DE596-5CBE-4E23-AF12-97F295288251} = {F1D54A8E-6EEF-4466-8E6A-790ED402C180}
+		{36982662-4D33-477F-B9DF-526FBBB3884B} = {F1D54A8E-6EEF-4466-8E6A-790ED402C180}
+		{B678511F-A123-429E-9689-3014018D8385} = {6E7D5EBC-FA2C-4F14-BA55-B1B52D9C7173}
+		{DFFF6A2E-5773-4E73-9412-4C808A756819} = {6E7D5EBC-FA2C-4F14-BA55-B1B52D9C7173}
+	EndGlobalSection
+EndGlobal
